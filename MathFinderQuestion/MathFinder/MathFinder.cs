@@ -65,7 +65,7 @@ namespace MathFinder
              * - Les cartes doivent être le plus carré possible (6x6 plutôt que 9x4)
              * 
              * - Le résultat dans la console doit être EXACTEMENT le même que dans l'exécutable que
-             *   vous retrouverer dans le dossier du projet.
+             *   vous retrouverez dans le dossier du projet.
              * 
              * CRITÈRE EXTRA : 
              * - Le seul chiffre qui peut apparaître dans votre code est le chiffre 2
