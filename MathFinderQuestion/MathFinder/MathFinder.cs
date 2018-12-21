@@ -37,7 +37,7 @@ namespace MathFinder
             /*
              * RÈGLEMENTS :
              * - Un string litéral seulement (donc au total, une paire de guillemets)
-             * - Deux caractères litérals maximums (donc au total, deux paires d'apostrophes)
+             * - Deux caractères litéraux maximums (donc au total, deux paires d'apostrophes)
              * - Seulement deux integers vous sont permis (i et j)
              * - Vous n'avez pas le droit de créer de nouvelles variables
              * - Vous avez accès à la classe MathHelper pour vous aider
